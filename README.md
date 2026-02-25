@@ -61,7 +61,10 @@
 # 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adithyancp123&theme=tokyonight&no-frame=true&margin-w=15" />
+  <img src="https://img.shields.io/badge/Profile%20Level-Intermediate-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DSA-Active-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Blockchain-Enthusiast-purple?style=for-the-badge" />
 </p>
 
 ---
