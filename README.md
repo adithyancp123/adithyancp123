@@ -72,3 +72,8 @@
 ---
 
 <h3 align="center">⚡ Building scalable systems, one commit at a time ⚡</h3>
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/adithyancp123/snake/blob/output/github-contribution-grid-snake-dark.svg" />
+</p>
