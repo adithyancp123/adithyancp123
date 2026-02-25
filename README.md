@@ -94,14 +94,22 @@
 # 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/adithyan-c-p-088064291">
+  <a href="https://www.linkedin.com/in/adithyan-c-p-088064291" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:adithyancp1234@gmail.com">
+  <a href="mailto:adithyancp1234@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
+  <a href="https://github.com/adithyancp123" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="https://leetcode.com/adithyancp" target="_blank">
+    <img src="https://img.icons8.com/?size=48&id=wDGo581Ea5Nf&format=png" height="48"/>
+  </a>
+  <a href="https://www.hackerrank.com/CCE23CS009" target="_blank">
+    <img src="https://img.icons8.com/?size=48&id=OUPsEPLKIebZ&format=png" height="48"/>
+  </a>
 </p>
-
 ---
 
 # 🐍 Contribution Snake
