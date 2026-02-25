@@ -3,11 +3,11 @@
 
 <!-- ==================== TYPING INTRO ==================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Backend+Developer;Blockchain+Enthusiast;Problem+Solver;Building+Scalable+Systems;Spring+Boot+%7C+React+%7C+DSA" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Aspiring+Full+Stack+Developer;Spring+Boot+%7C+React+Developer;Blockchain+Enthusiast;Problem+Solver;Building+Scalable+Web+Applications" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Adithyan C P</h1>
-<h3 align="center">Backend Developer | Blockchain Enthusiast | Problem Solver</h3>
+<h3 align="center">Aspiring Full Stack Developer | Blockchain Enthusiast | Problem Solver</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=adithyancp123&label=Profile%20Views&color=blueviolet&style=flat" />
@@ -18,8 +18,8 @@
 # 🚀 About Me
 
 - 🎓 B.Tech CSE Student (KTU)
-- 💻 Passionate about Backend Development & Scalable Systems
-- 🔗 Built Blockchain-based DApp using BNB Chain
+- 💻 Aspiring Full Stack Developer (Spring Boot + React)
+- 🔗 Built real-world REST APIs and Blockchain-based DApps
 - 🌱 Currently improving DSA & System Design
 - 📫 Reach me at: **adithyancp1234@gmail.com**
 
@@ -28,7 +28,7 @@
 # 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c,spring,react,mysql,git,github,postman,docker" />
+  <img src="https://skillicons.dev/icons?i=java,python,c,spring,react,nextjs,mysql,git,github,postman,docker" />
 </p>
 
 ---
@@ -77,14 +77,14 @@
 # 🚀 Featured Projects
 
 ### 🌾 AgriChain – Smart Agriculture Management System
-- RESTful API built using Spring Boot
-- CRUD operations for farmers, crops, irrigation schedules
-- Integrated Swagger for API documentation
+- Full Stack architecture with Spring Boot backend
+- REST APIs with authentication & Swagger integration
+- Designed scalable modular service structure
 
 ### 🩸 Decentralized Organ Donation Platform
 - Built using BNB Chain & Smart Contracts
-- Transparent donor-recipient matching system
-- React frontend with secure transaction flow
+- React-based frontend for user interaction
+- Secure and transparent blockchain workflow
 
 ---
 
@@ -109,6 +109,6 @@
 
 ---
 
-<h3 align="center">⚡ Building scalable systems, one commit at a time ⚡</h3>
+<h3 align="center">⚡ Building scalable full-stack applications, one commit at a time ⚡</h3>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0575E6,100:00F260&height=120&section=footer"/>
