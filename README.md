@@ -1,48 +1,59 @@
-<!-- ==================== BANNER ==================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F260,100:0575E6&height=200&section=header&text=Adithyan%20C%20P&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+<!-- ================= HEADER ================= -->
+<h1 align="center">👋 Hey, I'm Adithyan C P</h1>
+<h3 align="center">🚀 Aspiring Full Stack Developer | 🔗 Blockchain Enthusiast</h3>
 
-<!-- ==================== TYPING INTRO ==================== -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Aspiring+Full+Stack+Developer;React+Developer;Blockchain+Enthusiast;Problem+Solver;Building+Scalable+Web+Applications" />
+---
+
+<!-- ================= PROFILE + ABOUT ================= -->
+<table>
+<tr>
+<td width="35%" align="center">
+
+<img src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" width="180" style="border-radius:50%" />
+
+### **Adithyan C P**
+`B.Tech CSE (KTU)`
+
+📧 adithyancp1234@gmail.com  
+🌍 India  
+
+</td>
+
+<td width="65%">
+
+## 💫 About Me
+
+🚀 Aspiring Full Stack Developer (Spring Boot + React)  
+🔗 Building Blockchain-based DApps  
+📈 Improving DSA & System Design  
+💡 Passionate about scalable applications  
+
+---
+
+## 🧰 Tech & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,c,react,nextjs,mysql,git,github,postman,docker" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Adithyan C P</h1>
-<h3 align="center">Aspiring Full Stack Developer | Blockchain Enthusiast | Problem Solver</h3>
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ================= GITHUB OVERVIEW ================= -->
+## 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=adithyancp123&label=Profile%20Views&color=blueviolet&style=flat" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adithyancp123&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adithyancp123&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 ---
 
-# 🚀 About Me
-
-- 🎓 B.Tech CSE Student (KTU)
-- 💻 Aspiring Full Stack Developer (Spring Boot + React)
-- 🔗 Built real-world REST APIs and Blockchain-based DApps
-- 🌱 Currently improving DSA & System Design
-- 📫 Reach me at: **adithyancp1234@gmail.com**
-
----
-
-# 🛠 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c,react,nextjs,mysql,git,github,postman,docker" />
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=adithyancp123&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=adithyancp123&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
----
-
-# 🔥 GitHub Streak
+<!-- ================= STREAK ================= -->
+## 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=adithyancp123&theme=tokyonight&hide_border=true" />
@@ -50,7 +61,8 @@
 
 ---
 
-# 📈 Contribution Graph
+<!-- ================= GRAPH ================= -->
+## 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=adithyancp123&theme=tokyo-night&hide_border=true" />
@@ -58,18 +70,34 @@
 
 ---
 
-# 🏆 Achievements
+<!-- ================= PROJECTS ================= -->
+## 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Profile%20Level-Intermediate-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/DSA-Active-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Blockchain-Enthusiast-purple?style=for-the-badge" />
+### 🌾 AgriChain – Smart Agriculture Management
+✔ Spring Boot REST API  
+✔ React Frontend  
+✔ Authentication + Swagger  
+
+### 🩸 Decentralized Organ Donation Platform
+✔ BNB Chain + Smart Contracts  
+✔ Transparent workflow  
+✔ React UI  
+
+---
+
+<!-- ================= ACHIEVEMENTS ================= -->
+## 🏆 Achievements
+
+<p>
+<img src="https://img.shields.io/badge/Focus-Full%20Stack-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DSA-Improving-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Blockchain-Enthusiast-purple?style=for-the-badge"/>
 </p>
 
 ---
 
-# 🏆 LeetCode Stats
+<!-- ================= LEETCODE ================= -->
+## 🧠 LeetCode Stats
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/adithyancp?theme=dark&font=Fira%20Code&ext=contest" />
@@ -77,21 +105,8 @@
 
 ---
 
-# 🚀 Featured Projects
-
-### 🌾 AgriChain – Smart Agriculture Management System
-- Full Stack (Spring Boot + React)
-- REST APIs with authentication & Swagger
-- Scalable architecture
-
-### 🩸 Decentralized Organ Donation Platform
-- Built using BNB Chain
-- Smart Contracts + React frontend
-- Transparent workflow
-
----
-
-# 🌐 Connect With Me
+<!-- ================= CONNECT ================= -->
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/adithyan-c-p-088064291">
@@ -103,17 +118,12 @@
   <a href="https://github.com/adithyancp123">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-  <a href="https://leetcode.com/adithyancp">
-    <img src="https://img.icons8.com/?size=48&id=wDGo581Ea5Nf&format=png" height="48"/>
-  </a>
-  <a href="https://www.hackerrank.com/CCE23CS009">
-    <img src="https://img.icons8.com/?size=48&id=OUPsEPLKIebZ&format=png" height="48"/>
-  </a>
 </p>
 
 ---
 
-# 🐍 Contribution Snake
+<!-- ================= SNAKE ================= -->
+## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/adithyancp123/snake/output/github-contribution-grid-snake-dark.svg" />
@@ -121,6 +131,4 @@
 
 ---
 
-<h3 align="center">⚡ Building scalable full-stack applications, one commit at a time ⚡</h3>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0575E6,100:00F260&height=120&section=footer"/>
+<h3 align="center">⚡ Building scalable applications, one commit at a time ⚡</h3>
