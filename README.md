@@ -28,7 +28,7 @@
 # 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c,,react,nextjs,mysql,git,github,postman,docker" />
+  <img src="https://skillicons.dev/icons?i=java,python,c,react,nextjs,mysql,git,github,postman,docker" />
 </p>
 
 ---
@@ -80,36 +80,37 @@
 # 🚀 Featured Projects
 
 ### 🌾 AgriChain – Smart Agriculture Management System
-- Full Stack architecture with Spring Boot backend
-- REST APIs with authentication & Swagger integration
-- Designed scalable modular service structure
+- Full Stack (Spring Boot + React)
+- REST APIs with authentication & Swagger
+- Scalable architecture
 
 ### 🩸 Decentralized Organ Donation Platform
-- Built using BNB Chain & Smart Contracts
-- React-based frontend for user interaction
-- Secure and transparent blockchain workflow
+- Built using BNB Chain
+- Smart Contracts + React frontend
+- Transparent workflow
 
 ---
 
 # 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/adithyan-c-p-088064291" target="_blank">
+  <a href="https://www.linkedin.com/in/adithyan-c-p-088064291">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:adithyancp1234@gmail.com" target="_blank">
+  <a href="mailto:adithyancp1234@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-  <a href="https://github.com/adithyancp123" target="_blank">
+  <a href="https://github.com/adithyancp123">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-  <a href="https://leetcode.com/adithyancp" target="_blank">
+  <a href="https://leetcode.com/adithyancp">
     <img src="https://img.icons8.com/?size=48&id=wDGo581Ea5Nf&format=png" height="48"/>
   </a>
-  <a href="https://www.hackerrank.com/CCE23CS009" target="_blank">
+  <a href="https://www.hackerrank.com/CCE23CS009">
     <img src="https://img.icons8.com/?size=48&id=OUPsEPLKIebZ&format=png" height="48"/>
   </a>
 </p>
+
 ---
 
 # 🐍 Contribution Snake
