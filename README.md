@@ -52,24 +52,6 @@
 
 ---
 
-<!-- ================= STREAK ================= -->
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=adithyancp123&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-<!-- ================= GRAPH ================= -->
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adithyancp123&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
 <!-- ================= PROJECTS ================= -->
 ## 🚀 Featured Projects
 
