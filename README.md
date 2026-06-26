@@ -24,7 +24,6 @@
 ## 💫 About Me
 
 🚀 Aspiring Full Stack Developer (Spring Boot + React)  
-🔗 Building Blockchain-based DApps  
 📈 Improving DSA & System Design  
 💡 Passionate about scalable applications  
 
